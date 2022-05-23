@@ -4,3 +4,5 @@ Rencana Belajar
   2. Belajar Node JS
 - Belajar API
 - Belajar Andorid
+  1. Belajar Kotlin
+  2. Belajar Java
