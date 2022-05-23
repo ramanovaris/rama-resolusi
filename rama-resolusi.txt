@@ -1,4 +1,4 @@
 Rama Resolusi
 - Konsisten belajar
-- Membuat Project
 - Membuat Core
+- Membuat Aplikasi Android
